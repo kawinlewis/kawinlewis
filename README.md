@@ -17,6 +17,15 @@ Learning about ETL and Oracle Database
 </div>
 
 <!-- <img src="./.github/assets/lineBar.png" width="100%" height="8px"/> -->
+
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
   
 <h3 align="center">
   Engineer • Data Scienst • Python • SQL • Machine Learning • AI • Big Data • Data Visualization
