@@ -1,16 +1,13 @@
 ### Hi, I'm Kawin Lewis Bernini
 
-👨🏻‍💻Engineer, studying Data Science sharing about my journey and learning in the Tech Industry<br/>
-🎓 Bachelor of Civil Engineering at Anhembi Morumbi University in São Paulo, SP - Brazil
-💻 Currently studying Data Science at FIAP - Faculty of Information Technology and Administration in São Paulo, SP - Brazil.
-📊 Learning about ETL and Oracle Database
-  
 # 💫 About Me:
-👨🏻‍💻Engineer studying Data Science sharing about my journey and learning in the Tech Industry<br/>
-🎓 Bachelor of Civil Engineering at Anhembi Morumbi University in São Paulo, SP - Brazil<br>
-💻 Currently studying Data Science at FIAP - Faculty of Information Technology and Administration in São Paulo, SP - Brazil
-<br>📊 Learning about ETL and Oracle Database
+👨🏻‍💻I’m an engineer currently diving into the world of Data Science, sharing my journey and insights from the tech industry.
+🎓 I hold a Bachelor's degree in Civil Engineering from Anhembi Morumbi University in São Paulo, Brazil
+💻 Currently advancing my knowledge in Data Science at FIAP - Faculty of Information Technology and Administration, also in São Paulo.
+📊 Exploring ETL processes and Oracle Database to enhance my data management skills.
 
+
+👨🏻‍💻 I’m an engineer currently diving into the world of Data Science, sharing my journey and insights from the tech industry.<br/> 🎓 I hold a Bachelor's degree in Civil Engineering from Anhembi Morumbi University in São Paulo, Brazil.<br/> 💻 Currently advancing my knowledge in Data Science at FIAP - Faculty of Information Technology and Administration, also in São Paulo.<br/> 📊 Exploring ETL processes and Oracle Database to enhance my data management skills.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kawinlewis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kawinlewis) 
