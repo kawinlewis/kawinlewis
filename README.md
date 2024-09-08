@@ -6,7 +6,10 @@
 📊 Learning about ETL and Oracle Database
   
 # 💫 About Me:
-👨🏻‍💻Engineer studying Data Science sharing about my journey and learning in the Tech Industry<br/><br>🎓 Bachelor of Civil Engineering at Anhembi Morumbi University in São Paulo, SP - Brazil<br>💻 Currently studying Data Science at FIAP - Faculty of Information Technology and Administration in São Paulo, SP - Brazil.<br>📊 Learning about ETL and Oracle Database
+👨🏻‍💻Engineer studying Data Science sharing about my journey and learning in the Tech Industry<br/>
+🎓 Bachelor of Civil Engineering at Anhembi Morumbi University in São Paulo, SP - Brazil<br>
+💻 Currently studying Data Science at FIAP - Faculty of Information Technology and Administration in São Paulo, SP - Brazil
+<br>📊 Learning about ETL and Oracle Database
 
 
 ## 🌐 Socials:
